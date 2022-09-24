@@ -21,6 +21,12 @@ https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn
 ### Visual Modality:
     1. sen_avg_affectdenseface
 
+### M3ED Features（Have same format with DialogueRNN）
+链接: https://pan.baidu.com/s/1xip42FAEBeBteSMUNYtHtQ 提取码: y95k 
+
+### M3ED audio clips：
+链接: https://pan.baidu.com/s/1JvaTabyKoQiWx2GtAIhpdw 提取码: 6b5q
+
 ## Different Models (DialgueRNN, DialogueGCN, MMGCN, MDI):
 
 ### DialgueRNN
